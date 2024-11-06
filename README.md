@@ -657,4 +657,4 @@ describe('POST /auth/login', () => {
 
 - 로그인 성공
 
-![image.png](image (1).png)
+![image.png](image2.png)
